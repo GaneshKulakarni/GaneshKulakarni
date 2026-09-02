@@ -10,19 +10,12 @@
 <!--                                                                          -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ┌── WINDOW TITLE BAR ─────────────────────────────────────────────────┐ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:181825&height=46&text=●%20%20●%20%20●%20%20%20%20%20%20GaneshKulakarni%20—%20vscode-workspace%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20—%20%20□%20%20✕&fontColor=89b4fa&fontSize=13&fontAlign=50&fontAlignY=62" width="100%"/>
-
-<!-- └─────────────────────────────────────────────────────────────────────┘ -->
-
-<!-- ┌── ANIMATED TYPING HERO BANNER ──────────────────────────────────────┐ -->
-
 <div align="center">
 
-<a href="https://ganeshkulakarni.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=CBA6F7&center=true&vCenter=true&random=false&width=620&lines=Hi%2C+I'm+Ganesh+Kulakarni+👋;MERN+Stack+%26+Full+Stack+Developer+🚀;Full+Stack+Intern+%40+BYAMN;Top+1%2C500+Finalist+%40+Google+Hackathon;Open+Source+Contributor+%40+ECWoC+'26;Building+Real-World%2C+Scalable+Products" alt="Typing SVG" />
-</a>
+# 👨‍💻 Ganesh Kulakarni
+
+### Full Stack Developer & Open Source Contributor
+**MERN Stack · Next.js 15 · TypeScript · Cloud & System Architecture**
 
 </div>
 
