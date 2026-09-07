@@ -353,50 +353,50 @@ class ImagifyAISaaS {
 
 ## 📦 `package.json` — &nbsp; Skills & Dependencies
 
-```json
+<pre>
 {
-  "name"            : "ganesh-kulakarni",
-  "version"         : "2027.0.0",
-  "education"       : "B.Tech IT (GPA: 8.81)",
-  "currentRole"     : "Full Stack Developer Intern @ BYAMN",
+  <b>"name"</b>            : "ganesh-kulakarni",
+  <b>"version"</b>         : "2027.0.0",
+  <b>"education"</b>       : "B.Tech IT (GPA: 8.81)",
+  <b>"currentRole"</b>     : "Full Stack Developer Intern @ BYAMN",
 
-  "dependencies": {
-    "react"           : "^19.0.0",
-    "next"            : "^15.0.0",
-    "typescript"      : "^5.4.0",
-    "javascript-es6"  : "latest",
-    "express"         : "^4.19.0",
-    "node"            : "^20.x.x",
-    "mongodb"         : "^6.5.0",
-    "mysql"           : "^3.9.0",
-    "socket.io"       : "^4.7.0",
-    "tailwindcss"     : "^3.4.0",
-    "framer-motion"   : "^11.0.0",
-    "next-auth"       : "^4.24.0",
-    "razorpay"        : "^2.9.2"
+  <b>"dependencies"</b>: {
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="15" height="15" align="center" alt="React" /> <b>"react"</b>           : "^19.0.0",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="15" height="15" align="center" alt="Next.js" /> <b>"next"</b>            : "^15.0.0",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="15" height="15" align="center" alt="TypeScript" /> <b>"typescript"</b>      : "^5.4.0",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="15" height="15" align="center" alt="JavaScript" /> <b>"javascript-es6"</b>  : "latest",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="15" height="15" align="center" alt="Express" /> <b>"express"</b>         : "^4.19.0",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="15" height="15" align="center" alt="Node.js" /> <b>"node"</b>            : "^20.x.x",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="15" height="15" align="center" alt="MongoDB" /> <b>"mongodb"</b>         : "^6.5.0",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="15" height="15" align="center" alt="MySQL" /> <b>"mysql"</b>           : "^3.9.0",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="15" height="15" align="center" alt="Socket.io" /> <b>"socket.io"</b>       : "^4.7.0",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="15" height="15" align="center" alt="Tailwind CSS" /> <b>"tailwindcss"</b>     : "^3.4.0",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="15" height="15" align="center" alt="Framer Motion" /> <b>"framer-motion"</b>   : "^11.0.0",
+    <img src="https://cdn.simpleicons.org/auth0/EB5424" width="15" height="15" align="center" alt="NextAuth" /> <b>"next-auth"</b>       : "^4.24.0",
+    <img src="https://cdn.simpleicons.org/razorpay/02042B" width="15" height="15" align="center" alt="Razorpay" /> <b>"razorpay"</b>        : "^2.9.2"
   },
 
-  "devDependencies": {
-    "docker"          : "^25.0.0",
-    "aws-ecs"         : "latest",
-    "oracle-cloud"    : "latest",
-    "vite"            : "^5.2.0",
-    "postman"         : "latest",
-    "python"          : "^3.12.0",
-    "java"            : "^17.0.0",
-    "sql"             : "ANSI-standard",
-    "git"             : "latest",
-    "vercel"          : "latest"
+  <b>"devDependencies"</b>: {
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="15" height="15" align="center" alt="Docker" /> <b>"docker"</b>          : "^25.0.0",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="15" height="15" align="center" alt="AWS" /> <b>"aws-ecs"</b>         : "latest",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="15" height="15" align="center" alt="Oracle" /> <b>"oracle-cloud"</b>    : "latest",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="15" height="15" align="center" alt="Vite" /> <b>"vite"</b>            : "^5.2.0",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="15" height="15" align="center" alt="Postman" /> <b>"postman"</b>         : "latest",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15" height="15" align="center" alt="Python" /> <b>"python"</b>          : "^3.12.0",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="15" height="15" align="center" alt="Java" /> <b>"java"</b>            : "^17.0.0",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="15" height="15" align="center" alt="SQL" /> <b>"sql"</b>             : "ANSI-standard",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="15" height="15" align="center" alt="Git" /> <b>"git"</b>             : "latest",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="15" height="15" align="center" alt="Vercel" /> <b>"vercel"</b>          : "latest"
   },
 
-  "scripts": {
-    "start:career"    : "node intern.js --company=BYAMN --passion=100%",
-    "build:future"    : "next build && docker compose up -d",
-    "solve:problems"  : "dsa --practice --oop --patterns",
-    "test"            : "postman run --collection=api-tests --bail"
+  <b>"scripts"</b>: {
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="15" height="15" align="center" alt="Node" /> <b>"start:career"</b>    : "node intern.js --company=BYAMN --passion=100%",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="15" height="15" align="center" alt="Docker" /> <b>"build:future"</b>    : "next build && docker compose up -d",
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="15" height="15" align="center" alt="DSA" /> <b>"solve:problems"</b>  : "dsa --practice --oop --patterns",
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="15" height="15" align="center" alt="Postman" /> <b>"test"</b>            : "postman run --collection=api-tests --bail"
   }
 }
-```
+</pre>
 
 ---
 
