@@ -379,7 +379,6 @@ class ImagifyAISaaS {
   <b>"devDependencies"</b>: {
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="15" height="15" align="center" alt="Docker" /> <b>"docker"</b>          : "^25.0.0",
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="15" height="15" align="center" alt="AWS" /> <b>"aws-ecs"</b>         : "latest",
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="15" height="15" align="center" alt="Oracle" /> <b>"oracle-cloud"</b>    : "latest",
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="15" height="15" align="center" alt="Vite" /> <b>"vite"</b>            : "^5.2.0",
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="15" height="15" align="center" alt="Postman" /> <b>"postman"</b>         : "latest",
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15" height="15" align="center" alt="Python" /> <b>"python"</b>          : "^3.12.0",
