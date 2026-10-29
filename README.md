@@ -157,7 +157,7 @@ export default ganesh;
     {
       "role"       : "Full Stack Developer Intern",
       "company"    : "BYAMN",
-      "period"     : "Jul 2026 - Present",
+      "period"     : "Jul - Aug 2026",
       "mode"       : "Remote",
       "impact"     : [
         "Contributing to a production-grade Learning Management System (LMS) with Next.js 15 & MongoDB",
